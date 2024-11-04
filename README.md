@@ -13,7 +13,7 @@ This repository contains the homework assignments number 8 for course MATH UN201
   - `README.md`: This file, providing an overview of the repository.
   - `hw8_question_5`: The solution for qustion 5 in jupyter notebook.
   - `hw8_question_8`: The solutions for qustion 8 in jupyter notebook.
-  - 'hw8_written_answers' : handwritten solutions for all of the rest of the questions.
+  - 'hw8_written_answers` : handwritten solutions for all of the rest of the questions.
 
 ## Usage
 
