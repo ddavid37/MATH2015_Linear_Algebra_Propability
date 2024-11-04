@@ -2,6 +2,7 @@
 
 Question 1-10
 
+You can accsess the file that contains all of the questions [here](https://github.com/ddavid37/MATH2015---Linear-Algebra-Propability/blob/main/HW_8.pdf)
 # Repository Description
 
 This repository contains the homework assignments for the course MATH UN2015 - Linear Algebra & Probability for Fall 2024 at Columbia University. The assignments are organized by week and include problem sets, solutions, and any additional resources provided during the course.
